@@ -1,0 +1,6 @@
+setMediaPath('C:\CRASHPLAN\TRAINING\RMIT\code\mediasources')
+
+getMediaPath()
+'C:\\CRASHPLAN\\TRAINING\\RMIT\\code\\mediasources\\'
+
+pic = makePicture(pickAFile())
